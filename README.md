@@ -390,7 +390,7 @@ This project is for educational purposes. Please check the Empathetic Dialogues 
 **Khethavath Sunil Naik**  
 Roll No: 12341170  
 IIT Bhilai  
-Email: [your-email]
+Email: khethavathn@iitbhilai.ac.in
 
 ## References
 
